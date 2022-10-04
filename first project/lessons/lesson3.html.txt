@@ -1,0 +1,27 @@
+<html>
+
+<h1>paragraphs</h1>
+
+<p>
+
+First Paragraph
+
+</p>
+
+
+<p>
+Lorem ipsum dolor sit amet, in sea inimicus delicatissimi, ei cum case ancillae repudiandae, no per fabulas debitis praesent. An lorem persecuti his. Per at habemus senserit, cu duo nobis tractatos disputationi. Menandri iracundia signiferumque per no. Eu convenire disputationi usu, saepe docendi lobortis nam et, ex vim prompta lucilius voluptatibus.
+
+</p>
+
+<p>
+Last Paragraph
+</P>
+
+
+
+
+
+
+
+</html>
